@@ -8,4 +8,4 @@ Integrantes:
 - Joaquin Ricardo Nieves Bohórquez
 - Julio Cesar Baena Cogollo
 - Sebastian Andrés Avila Noguera
-
+- Jean Paul Bekman Quitian Guillen
