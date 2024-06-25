@@ -1,22 +1,20 @@
-﻿pipeline
-{
+﻿pipeline{
     agent any
     stages {
-        stage('Build'){
+        stage ('Build'){
             steps{
                 echo "Paso Build.."                
             }
         }
-        stage('Test'){
+        stage ('Test'){
             steps{
                 echo "Paso Test.."                
             }
         }
-        stage('Deploy'){
+        stage ('Deploy'){
             steps{
                 echo "Paso Deploy.."
                 sh "docker-compose down -v"                
-                sh "docker-compose up -d --build"                
             }
         }
     }
