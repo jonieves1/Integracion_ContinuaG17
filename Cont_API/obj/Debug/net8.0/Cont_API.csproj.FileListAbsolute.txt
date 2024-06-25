@@ -69,3 +69,4 @@ D:\ProyectoDocker\Cont_API\obj\Debug\net8.0\refint\Cont_API.dll
 D:\ProyectoDocker\Cont_API\obj\Debug\net8.0\Cont_API.pdb
 D:\ProyectoDocker\Cont_API\obj\Debug\net8.0\Cont_API.genruntimeconfig.cache
 D:\ProyectoDocker\Cont_API\obj\Debug\net8.0\ref\Cont_API.dll
+D:\ProyectoDocker\Cont_API\obj\Debug\net8.0\Cont_API.sourcelink.json
